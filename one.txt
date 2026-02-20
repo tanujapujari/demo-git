@@ -1,2 +1,4 @@
 new file one in folder thre.
 add aother file
+other text added 
+blah blah
